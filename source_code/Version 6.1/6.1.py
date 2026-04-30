@@ -1456,7 +1456,7 @@ class XiaomiUnlockTool:
 def main():
     global root
     root = ctk.CTk()
-    app = XiaomiUnlockTool(root)
+    app = JEPFXUnlockTool(root)
     root.app = app
     root.mainloop()
 
