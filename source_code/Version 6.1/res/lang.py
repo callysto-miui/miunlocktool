@@ -384,8 +384,8 @@ Cкрипт построен на базе скрипта от:
 
     def get_english(self):
         return {
-            'title': "Xiaomi Unlock Tool",
-            'main_title': f"Xiaomi Unlock Tool",
+            'title': "JEPFX Unlock Tool",
+            'main_title': f"JEPFX Unlock Tool",
             'desc': (
                 f"Tool for automatic unlock request submission\n"
                 f"By: Vozduhan\n"
